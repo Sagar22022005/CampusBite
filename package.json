@@ -1,0 +1,19 @@
+{
+  "name": "campusbite",
+  "version": "1.0.0",
+  "description": "Campus Delivery (CampusBite) - Complete MERN Stack campus food, grocery, and fruits delivery platform for IIT Indore",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "seed": "npm --prefix server run seed"
+  },
+  "keywords": [
+    "campus-delivery",
+    "mern",
+    "food-delivery",
+    "iit-indore",
+    "ecommerce"
+  ],
+  "author": "",
+  "license": "ISC"
+}
